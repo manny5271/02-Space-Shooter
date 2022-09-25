@@ -1,4 +1,4 @@
-02-Space-Shooter
+## 02-Space-Shooter
 
 Project for MSCH-C220
 
